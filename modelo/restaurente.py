@@ -10,4 +10,4 @@ restaurante_pizza = Restaurante('Pizza express', 'Italiana')
 restaurantes = [restaurante_praca, restaurante_pizza]
 
 print(vars(restaurante_praca))
-print(vars(restaurante_pizza))
+print(vars(restaurante_pizza)) # Aula dois vou começar em metodos especiais.
